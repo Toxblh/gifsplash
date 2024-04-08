@@ -9,7 +9,7 @@ int main(int argc, char *argv[]) {
 
     // Проверка наличия аргумента с путем к GIF
     if (argc < 2) {
-        qWarning("Usage: programName path_to_your_gif.gif");
+        qWarning("Usage: gifsplash path_to_your_gif.gif");
         return -1;
     }
 
