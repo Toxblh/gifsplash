@@ -1,1 +1,4 @@
 gifsplash
+.qmake.stash
+gifsplash.o
+Makefile
